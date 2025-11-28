@@ -1,0 +1,81 @@
+{
+  "query": "Analyze ROAS drop in last 7 days",
+  "timestamp": "2025-11-27T21:04:33.633929",
+  "creatives": [
+    {
+      "campaign": "Women-Studio Spo-ts",
+      "ideas": [
+        {
+          "headline": "Limited Time Offer — Up to 50% Off!",
+          "primary_text": "Hurry! Grab your favorites before the sale ends.",
+          "cta": "Shop Now"
+        },
+        {
+          "headline": "🔥 Trending Product People Love!",
+          "primary_text": "Don’t miss out — thousands sold this month!",
+          "cta": "Buy Now"
+        },
+        {
+          "headline": "⚡ New Arrival Just Dropped!",
+          "primary_text": "Stylish, comfortable, and made for everyday wear.",
+          "cta": "Explore Collection"
+        },
+        {
+          "headline": "Why Wait? Your Perfect Fit Is Here",
+          "primary_text": "Special launch pricing for a short time only!",
+          "cta": "Grab Yours"
+        }
+      ]
+    },
+    {
+      "campaign": "Men Premiu- Modal",
+      "ideas": [
+        {
+          "headline": "Limited Time Offer — Up to 50% Off!",
+          "primary_text": "Hurry! Grab your favorites before the sale ends.",
+          "cta": "Shop Now"
+        },
+        {
+          "headline": "🔥 Trending Product People Love!",
+          "primary_text": "Don’t miss out — thousands sold this month!",
+          "cta": "Buy Now"
+        },
+        {
+          "headline": "⚡ New Arrival Just Dropped!",
+          "primary_text": "Stylish, comfortable, and made for everyday wear.",
+          "cta": "Explore Collection"
+        },
+        {
+          "headline": "Why Wait? Your Perfect Fit Is Here",
+          "primary_text": "Special launch pricing for a short time only!",
+          "cta": "Grab Yours"
+        }
+      ]
+    },
+    {
+      "campaign": "Women Seamless Eve yday",
+      "ideas": [
+        {
+          "headline": "Limited Time Offer — Up to 50% Off!",
+          "primary_text": "Hurry! Grab your favorites before the sale ends.",
+          "cta": "Shop Now"
+        },
+        {
+          "headline": "🔥 Trending Product People Love!",
+          "primary_text": "Don’t miss out — thousands sold this month!",
+          "cta": "Buy Now"
+        },
+        {
+          "headline": "⚡ New Arrival Just Dropped!",
+          "primary_text": "Stylish, comfortable, and made for everyday wear.",
+          "cta": "Explore Collection"
+        },
+        {
+          "headline": "Why Wait? Your Perfect Fit Is Here",
+          "primary_text": "Special launch pricing for a short time only!",
+          "cta": "Grab Yours"
+        }
+      ]
+    }
+  ]
+}

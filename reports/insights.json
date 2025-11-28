@@ -1,0 +1,24 @@
+{
+  "query": "Analyze ROAS drop in last 7 days",
+  "timestamp": "2025-11-27T21:04:33.633929",
+  "hypotheses": [
+    {
+      "title": "No Major Changes Detected",
+      "description": "Metrics stable compared to previous period.",
+      "metric": "none",
+      "confidence": 0.5
+    }
+  ],
+  "data_summary": {
+    "rows": 4500,
+    "date_min": "2025-01-01",
+    "date_max": "2025-03-31",
+    "top_campaigns_by_spend": {
+      "Men Premium Modal": 100371.84,
+      "Men Bold Colors Drop": 93111.31,
+      "MEN Signature Soft": 79640.54,
+      "women Summer Invisible": 74752.86,
+      "WOMEN Seamless Everyday": 73693.9
+    }
+  }
+}
