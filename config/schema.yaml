@@ -1,0 +1,22 @@
+version: 2.0
+
+required_columns:
+  campaign_name: string
+  adset_name: string
+  date: datetime
+  spend: float
+  impressions: integer
+  clicks: integer
+  ctr: float
+  purchases: integer
+  revenue: float
+  roas: float
+  creative_type: string
+  creative_message: string
+  audience_type: string
+  platform: string
+  country: string
+
+allow_extra_columns: false
+coerce_if_possible: true
+max_missing_fraction: 0.2

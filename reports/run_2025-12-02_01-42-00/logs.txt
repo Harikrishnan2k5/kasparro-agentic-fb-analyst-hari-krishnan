@@ -1,0 +1,7 @@
+▶️ Run ID: run_2025-12-02_01-42-00
+▶️ Query: Analyze ROAS drop in last 7 days
+▶️ Status: Started
+
+📌 Planner Output: {'intent': 'roas_analysis', 'steps': ['load_data', 'filter_time_window', 'compute_metrics', 'generate_hypotheses', 'validate_hypotheses', 'produce_report']}
+❌ ERROR OCCURRED ❌
+'list' object has no attribute 'keys'

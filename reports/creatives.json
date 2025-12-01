@@ -1,0 +1,176 @@
+{
+  "query": "Analyze ROAS drop in last 7 days",
+  "timestamp": "2025-12-01T19:25:02.401211",
+  "creatives": [
+    {
+      "campaign_name": "MEN BOL COLORS DROP",
+      "adset_name": "Adset-1 Broad",
+      "reason": "Low CTR (avg 0.0045)",
+      "existing_messages": [
+        "All‑day comfort, zero pinch — try our men boxers!"
+      ],
+      "recommendations": [
+        {
+          "angle": "Urgency (limited time)",
+          "headline": "Limited time — All‑day comfort, zero pinch — try our men boxers! Hurry, offer ends soon!",
+          "primary_text": "Urgency (limited time) — All‑day comfort, zero pinch — try our men boxers!",
+          "cta": "Get Offer"
+        },
+        {
+          "angle": "Discount / Offer",
+          "headline": "Save big: All‑day comfort, zero pinch — try our men boxers! Use code SAVE20 at checkout.",
+          "primary_text": "Discount / Offer — All‑day comfort, zero pinch — try our men boxers!",
+          "cta": "Shop Now"
+        },
+        {
+          "angle": "Benefit-first (what user gets)",
+          "headline": "All‑day comfort, zero pinch — try our men boxers! — Enjoy comfort & style.",
+          "primary_text": "Benefit-first (what user gets) — All‑day comfort, zero pinch — try our men boxers!",
+          "cta": "See Details"
+        },
+        {
+          "angle": "How-to / Use-case",
+          "headline": "How to use: All‑day comfort, zero pinch — try our men boxers! — Quick steps inside.",
+          "primary_text": "How-to / Use-case — All‑day comfort, zero pinch — try our men boxers!",
+          "cta": "Shop Now"
+        }
+      ]
+    },
+    {
+      "campaign_name": "WOMEN Seamless Everydy",
+      "adset_name": "Adset-3 Broad",
+      "reason": "Low CTR (avg 0.0053)",
+      "existing_messages": [
+        "Doctors recommend breathable organic cotton — meet our women wire‑free bras."
+      ],
+      "recommendations": [
+        {
+          "angle": "Urgency (limited time)",
+          "headline": "Limited time — Doctors recommend breathable organic cotton — meet our women wire‑free bras. Hurry, offer ends soon!",
+          "primary_text": "Urgency (limited time) — Doctors recommend breathable organic cotton — meet our women wire‑free bras.",
+          "cta": "Learn More"
+        },
+        {
+          "angle": "Discount / Offer",
+          "headline": "Save big: Doctors recommend breathable organic cotton — meet our women wire‑free bras. Use code SAVE20 at checkout.",
+          "primary_text": "Discount / Offer — Doctors recommend breathable organic cotton — meet our women wire‑free bras.",
+          "cta": "See Details"
+        },
+        {
+          "angle": "Benefit-first (what user gets)",
+          "headline": "Doctors recommend breathable organic cotton — meet our women wire‑free bras. — Enjoy Doctors recommend breathable.",
+          "primary_text": "Benefit-first (what user gets) — Doctors recommend breathable organic cotton — meet our women wire‑free bras.",
+          "cta": "Learn More"
+        },
+        {
+          "angle": "How-to / Use-case",
+          "headline": "How to use: Doctors recommend breathable organic cotton — meet our women wire‑free bras. — Quick steps inside.",
+          "primary_text": "How-to / Use-case — Doctors recommend breathable organic cotton — meet our women wire‑free bras.",
+          "cta": "Buy Today"
+        }
+      ]
+    },
+    {
+      "campaign_name": "WOEN  Cotton  Classics",
+      "adset_name": "Adset-3 Broad",
+      "reason": "Low CTR (avg 0.0054)",
+      "existing_messages": [
+        "Breathable microfiber that moves with you — limited offer on women sports bras."
+      ],
+      "recommendations": [
+        {
+          "angle": "Urgency (limited time)",
+          "headline": "Limited time — Breathable microfiber that moves with you — limited offer on women sports bras. Hurry, offer ends soon!",
+          "primary_text": "Urgency (limited time) — Breathable microfiber that moves with you — limited offer on women sports bras.",
+          "cta": "Buy Today"
+        },
+        {
+          "angle": "Discount / Offer",
+          "headline": "Save big: Breathable microfiber that moves with you — limited offer on women sports bras. Use code SAVE20 at checkout.",
+          "primary_text": "Discount / Offer — Breathable microfiber that moves with you — limited offer on women sports bras.",
+          "cta": "Buy Today"
+        },
+        {
+          "angle": "Benefit-first (what user gets)",
+          "headline": "Breathable microfiber that moves with you — limited offer on women sports bras. — Enjoy Breathable microfiber that.",
+          "primary_text": "Benefit-first (what user gets) — Breathable microfiber that moves with you — limited offer on women sports bras.",
+          "cta": "Get Offer"
+        },
+        {
+          "angle": "How-to / Use-case",
+          "headline": "How to use: Breathable microfiber that moves with you — limited offer on women sports bras. — Quick steps inside.",
+          "primary_text": "How-to / Use-case — Breathable microfiber that moves with you — limited offer on women sports bras.",
+          "cta": "Buy Today"
+        }
+      ]
+    },
+    {
+      "campaign_name": "MEN BOLD COL RS DROP",
+      "adset_name": "Adset-4 Broad",
+      "reason": "Low CTR (avg 0.0054)",
+      "existing_messages": [
+        "Summer‑ready essentials — sweat‑wicking men boxers."
+      ],
+      "recommendations": [
+        {
+          "angle": "Urgency (limited time)",
+          "headline": "Limited time — Summer‑ready essentials — sweat‑wicking men boxers. Hurry, offer ends soon!",
+          "primary_text": "Urgency (limited time) — Summer‑ready essentials — sweat‑wicking men boxers.",
+          "cta": "Learn More"
+        },
+        {
+          "angle": "Discount / Offer",
+          "headline": "Save big: Summer‑ready essentials — sweat‑wicking men boxers. Use code SAVE20 at checkout.",
+          "primary_text": "Discount / Offer — Summer‑ready essentials — sweat‑wicking men boxers.",
+          "cta": "Shop Now"
+        },
+        {
+          "angle": "Benefit-first (what user gets)",
+          "headline": "Summer‑ready essentials — sweat‑wicking men boxers. — Enjoy Summer‑ready essentials —.",
+          "primary_text": "Benefit-first (what user gets) — Summer‑ready essentials — sweat‑wicking men boxers.",
+          "cta": "See Details"
+        },
+        {
+          "angle": "How-to / Use-case",
+          "headline": "How to use: Summer‑ready essentials — sweat‑wicking men boxers. — Quick steps inside.",
+          "primary_text": "How-to / Use-case — Summer‑ready essentials — sweat‑wicking men boxers.",
+          "cta": "Buy Today"
+        }
+      ]
+    },
+    {
+      "campaign_name": "MEN  Signture  Soft",
+      "adset_name": "Adset-4 LAL2",
+      "reason": "Low CTR (avg 0.0055)",
+      "existing_messages": [
+        "Seamless confidence for every day — new men briefs."
+      ],
+      "recommendations": [
+        {
+          "angle": "Urgency (limited time)",
+          "headline": "Limited time — Seamless confidence for every day — new men briefs. Hurry, offer ends soon!",
+          "primary_text": "Urgency (limited time) — Seamless confidence for every day — new men briefs.",
+          "cta": "See Details"
+        },
+        {
+          "angle": "Discount / Offer",
+          "headline": "Save big: Seamless confidence for every day — new men briefs. Use code SAVE20 at checkout.",
+          "primary_text": "Discount / Offer — Seamless confidence for every day — new men briefs.",
+          "cta": "See Details"
+        },
+        {
+          "angle": "Benefit-first (what user gets)",
+          "headline": "Seamless confidence for every day — new men briefs. — Enjoy Seamless confidence for.",
+          "primary_text": "Benefit-first (what user gets) — Seamless confidence for every day — new men briefs.",
+          "cta": "Shop Now"
+        },
+        {
+          "angle": "How-to / Use-case",
+          "headline": "How to use: Seamless confidence for every day — new men briefs. — Quick steps inside.",
+          "primary_text": "How-to / Use-case — Seamless confidence for every day — new men briefs.",
+          "cta": "Learn More"
+        }
+      ]
+    }
+  ]
+}

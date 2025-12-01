@@ -1,0 +1,12 @@
+▶️ Run ID: run_2025-12-02_03-09-09
+▶️ Query: Analyze ROAS drop in last 7 days
+▶️ Status: Started
+
+📌 Planner Output: {'intent': 'roas_analysis', 'steps': ['load_data', 'filter_time_window', 'compute_metrics', 'generate_hypotheses', 'validate_hypotheses', 'produce_report']}
+📌 Data Agent: Data summary generated.
+📌 Insight Agent: Hypotheses generated.
+📌 Evaluator: Hypotheses validated.
+📌 Creative Agent: Creatives generated.
+✔️ Outputs saved successfully
+📁 Run folder created at: reports\run_2025-12-02_03-09-09
+🎉 Status: Completed

@@ -1,0 +1,59 @@
+{
+  "query": "Analyze ROAS drop in last 7 days",
+  "timestamp": "2025-12-01T19:25:02.401211",
+  "hypotheses": [
+    {
+      "title": "CTR Change in Last 7 Days",
+      "evidence": {
+        "baseline_ctr": 0.0131,
+        "current_ctr": 0.0127,
+        "ctr_delta_pct": -2.94
+      },
+      "impact": "low",
+      "confidence": 0.059
+    },
+    {
+      "title": "ROAS Change in Last 7 Days",
+      "evidence": {
+        "baseline_roas": 9.8983,
+        "current_roas": 7.6375,
+        "roas_delta_pct": -22.84
+      },
+      "impact": "low",
+      "confidence": 0.457
+    }
+  ],
+  "data_summary": {
+    "rows": 4116,
+    "columns": [
+      "campaign_name",
+      "adset_name",
+      "date",
+      "spend",
+      "impressions",
+      "clicks",
+      "ctr",
+      "purchases",
+      "revenue",
+      "roas",
+      "creative_type",
+      "creative_message",
+      "audience_type",
+      "platform",
+      "country"
+    ],
+    "date_range": "2025-01-01 → 2025-03-31",
+    "spend_total": 1979579.3399999999,
+    "revenue_total": 11603049.629999999,
+    "avg_roas": 9.69508260447036,
+    "platforms": [
+      "Facebook",
+      "Instagram"
+    ],
+    "countries": [
+      "US",
+      "UK",
+      "IN"
+    ]
+  }
+}

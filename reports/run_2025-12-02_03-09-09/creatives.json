@@ -1,0 +1,323 @@
+{
+  "run_id": "run_2025-12-02_03-09-09",
+  "query": "Analyze ROAS drop in last 7 days",
+  "timestamp": "2025-12-02T03:09:09.842660+05:30",
+  "creatives": [
+    {
+      "hypothesis": "ROAS dropped significantly in segment: country = IN",
+      "confidence": 0.65,
+      "evidence": {
+        "last_7d": 6.043,
+        "prev_7d": 7.358,
+        "variance": 270.6754605473853,
+        "std_dev": 16.452217496355477,
+        "sample_size": 4500
+      },
+      "target_segments": [
+        {
+          "country": "UK",
+          "platform": "Instagram",
+          "creative_type": "Video",
+          "ctr": 0.011288571428571429,
+          "roas": 6.8808633093525176,
+          "clicks": 431565.0,
+          "spend": 66628.96,
+          "score": 0.08333333333333333
+        },
+        {
+          "country": "IN",
+          "platform": "Instagram",
+          "creative_type": "Video",
+          "ctr": 0.010594472361809045,
+          "roas": 7.622562814070352,
+          "clicks": 546832.0,
+          "spend": 96194.02,
+          "score": 0.08333333333333333
+        },
+        {
+          "country": "IN",
+          "platform": "Facebook",
+          "creative_type": "Video",
+          "ctr": 0.011332512315270936,
+          "roas": 6.97975369458128,
+          "clicks": 560298.0,
+          "spend": 101009.33,
+          "score": 0.125
+        }
+      ],
+      "creative_directions": [
+        {
+          "angle": "Hook Refresh",
+          "problem_targeted": "General Fatigue",
+          "message": "A bold new look designed just for you.",
+          "cta": "Explore Now",
+          "format": "Standard creative refresh",
+          "why_it_works": "Addressing the primary drop driver found in metrics."
+        },
+        {
+          "angle": "Value Proposition Deepening",
+          "problem_targeted": "General Fatigue",
+          "message": "A trusted choice — crafted with high-grade materials.",
+          "cta": "Explore Now",
+          "format": "Carousel or UGC review clip",
+          "why_it_works": "Strengthens product trust after performance decline."
+        },
+        {
+          "angle": "Segment-Personalized Creative",
+          "problem_targeted": "Segment with lowest performance metrics",
+          "segment_used": {
+            "country": "UK",
+            "platform": "Instagram",
+            "creative_type": "Video",
+            "ctr": 0.011288571428571429,
+            "roas": 6.8808633093525176,
+            "clicks": 431565.0,
+            "spend": 66628.96,
+            "score": 0.08333333333333333
+          },
+          "message": "Designed for UK — optimized Video variant now live!",
+          "cta": "Try Now",
+          "format": "Localized static + testimonial",
+          "why_it_works": "Uses worst-performing audience group to rebuild CTR/ROAS."
+        }
+      ]
+    },
+    {
+      "hypothesis": "ROAS dropped significantly in segment: country = UK",
+      "confidence": 0.85,
+      "evidence": {
+        "last_7d": 6.286,
+        "prev_7d": 9.343,
+        "variance": 270.6754605473853,
+        "std_dev": 16.452217496355477,
+        "sample_size": 4500
+      },
+      "target_segments": [
+        {
+          "country": "UK",
+          "platform": "Instagram",
+          "creative_type": "Video",
+          "ctr": 0.011288571428571429,
+          "roas": 6.8808633093525176,
+          "clicks": 431565.0,
+          "spend": 66628.96,
+          "score": 0.08333333333333333
+        },
+        {
+          "country": "IN",
+          "platform": "Instagram",
+          "creative_type": "Video",
+          "ctr": 0.010594472361809045,
+          "roas": 7.622562814070352,
+          "clicks": 546832.0,
+          "spend": 96194.02,
+          "score": 0.08333333333333333
+        },
+        {
+          "country": "IN",
+          "platform": "Facebook",
+          "creative_type": "Video",
+          "ctr": 0.011332512315270936,
+          "roas": 6.97975369458128,
+          "clicks": 560298.0,
+          "spend": 101009.33,
+          "score": 0.125
+        }
+      ],
+      "creative_directions": [
+        {
+          "angle": "Hook Refresh",
+          "problem_targeted": "General Fatigue",
+          "message": "A bold new look designed just for you.",
+          "cta": "Explore Now",
+          "format": "Standard creative refresh",
+          "why_it_works": "Addressing the primary drop driver found in metrics."
+        },
+        {
+          "angle": "Value Proposition Deepening",
+          "problem_targeted": "General Fatigue",
+          "message": "A trusted choice — crafted with high-grade materials.",
+          "cta": "Explore Now",
+          "format": "Carousel or UGC review clip",
+          "why_it_works": "Strengthens product trust after performance decline."
+        },
+        {
+          "angle": "Segment-Personalized Creative",
+          "problem_targeted": "Segment with lowest performance metrics",
+          "segment_used": {
+            "country": "UK",
+            "platform": "Instagram",
+            "creative_type": "Video",
+            "ctr": 0.011288571428571429,
+            "roas": 6.8808633093525176,
+            "clicks": 431565.0,
+            "spend": 66628.96,
+            "score": 0.08333333333333333
+          },
+          "message": "Designed for UK — optimized Video variant now live!",
+          "cta": "Try Now",
+          "format": "Localized static + testimonial",
+          "why_it_works": "Uses worst-performing audience group to rebuild CTR/ROAS."
+        }
+      ]
+    },
+    {
+      "hypothesis": "ROAS dropped significantly in segment: audience_type = Lookalike",
+      "confidence": 0.75,
+      "evidence": {
+        "last_7d": 7.419,
+        "prev_7d": 10.316,
+        "variance": 270.6754605473853,
+        "std_dev": 16.452217496355477,
+        "sample_size": 4500
+      },
+      "target_segments": [
+        {
+          "country": "UK",
+          "platform": "Instagram",
+          "creative_type": "Video",
+          "ctr": 0.011288571428571429,
+          "roas": 6.8808633093525176,
+          "clicks": 431565.0,
+          "spend": 66628.96,
+          "score": 0.08333333333333333
+        },
+        {
+          "country": "IN",
+          "platform": "Instagram",
+          "creative_type": "Video",
+          "ctr": 0.010594472361809045,
+          "roas": 7.622562814070352,
+          "clicks": 546832.0,
+          "spend": 96194.02,
+          "score": 0.08333333333333333
+        },
+        {
+          "country": "IN",
+          "platform": "Facebook",
+          "creative_type": "Video",
+          "ctr": 0.011332512315270936,
+          "roas": 6.97975369458128,
+          "clicks": 560298.0,
+          "spend": 101009.33,
+          "score": 0.125
+        }
+      ],
+      "creative_directions": [
+        {
+          "angle": "Hook Refresh",
+          "problem_targeted": "General Fatigue",
+          "message": "A bold new look designed just for you.",
+          "cta": "Explore Now",
+          "format": "Standard creative refresh",
+          "why_it_works": "Addressing the primary drop driver found in metrics."
+        },
+        {
+          "angle": "Value Proposition Deepening",
+          "problem_targeted": "General Fatigue",
+          "message": "A trusted choice — crafted with high-grade materials.",
+          "cta": "Explore Now",
+          "format": "Carousel or UGC review clip",
+          "why_it_works": "Strengthens product trust after performance decline."
+        },
+        {
+          "angle": "Segment-Personalized Creative",
+          "problem_targeted": "Segment with lowest performance metrics",
+          "segment_used": {
+            "country": "UK",
+            "platform": "Instagram",
+            "creative_type": "Video",
+            "ctr": 0.011288571428571429,
+            "roas": 6.8808633093525176,
+            "clicks": 431565.0,
+            "spend": 66628.96,
+            "score": 0.08333333333333333
+          },
+          "message": "Designed for UK — optimized Video variant now live!",
+          "cta": "Try Now",
+          "format": "Localized static + testimonial",
+          "why_it_works": "Uses worst-performing audience group to rebuild CTR/ROAS."
+        }
+      ]
+    },
+    {
+      "hypothesis": "ROAS dropped significantly in segment: audience_type = Retargeting",
+      "confidence": 0.65,
+      "evidence": {
+        "last_7d": 9.465,
+        "prev_7d": 11.247,
+        "variance": 270.6754605473853,
+        "std_dev": 16.452217496355477,
+        "sample_size": 4500
+      },
+      "target_segments": [
+        {
+          "country": "UK",
+          "platform": "Instagram",
+          "creative_type": "Video",
+          "ctr": 0.011288571428571429,
+          "roas": 6.8808633093525176,
+          "clicks": 431565.0,
+          "spend": 66628.96,
+          "score": 0.08333333333333333
+        },
+        {
+          "country": "IN",
+          "platform": "Instagram",
+          "creative_type": "Video",
+          "ctr": 0.010594472361809045,
+          "roas": 7.622562814070352,
+          "clicks": 546832.0,
+          "spend": 96194.02,
+          "score": 0.08333333333333333
+        },
+        {
+          "country": "IN",
+          "platform": "Facebook",
+          "creative_type": "Video",
+          "ctr": 0.011332512315270936,
+          "roas": 6.97975369458128,
+          "clicks": 560298.0,
+          "spend": 101009.33,
+          "score": 0.125
+        }
+      ],
+      "creative_directions": [
+        {
+          "angle": "Hook Refresh",
+          "problem_targeted": "General Fatigue",
+          "message": "A bold new look designed just for you.",
+          "cta": "Explore Now",
+          "format": "Standard creative refresh",
+          "why_it_works": "Addressing the primary drop driver found in metrics."
+        },
+        {
+          "angle": "Value Proposition Deepening",
+          "problem_targeted": "General Fatigue",
+          "message": "A trusted choice — crafted with high-grade materials.",
+          "cta": "Explore Now",
+          "format": "Carousel or UGC review clip",
+          "why_it_works": "Strengthens product trust after performance decline."
+        },
+        {
+          "angle": "Segment-Personalized Creative",
+          "problem_targeted": "Segment with lowest performance metrics",
+          "segment_used": {
+            "country": "UK",
+            "platform": "Instagram",
+            "creative_type": "Video",
+            "ctr": 0.011288571428571429,
+            "roas": 6.8808633093525176,
+            "clicks": 431565.0,
+            "spend": 66628.96,
+            "score": 0.08333333333333333
+          },
+          "message": "Designed for UK — optimized Video variant now live!",
+          "cta": "Try Now",
+          "format": "Localized static + testimonial",
+          "why_it_works": "Uses worst-performing audience group to rebuild CTR/ROAS."
+        }
+      ]
+    }
+  ]
+}

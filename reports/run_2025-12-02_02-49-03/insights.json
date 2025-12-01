@@ -1,0 +1,69 @@
+{
+  "run_id": "run_2025-12-02_02-49-03",
+  "query": "Analyze ROAS drop in last 7 days",
+  "timestamp": "2025-12-02T02:49:03.922293+05:30",
+  "hypotheses": [
+    {
+      "title": "ROAS dropped significantly in segment: country = IN",
+      "segment": "country",
+      "segment_value": "IN",
+      "delta_pct": -17.87,
+      "impact": "low",
+      "evidence": {
+        "last_7d": 6.043,
+        "prev_7d": 7.358
+      },
+      "validated": false,
+      "confidence": 0.25,
+      "note": "No metric specified in hypothesis"
+    },
+    {
+      "title": "ROAS dropped significantly in segment: country = UK",
+      "segment": "country",
+      "segment_value": "UK",
+      "delta_pct": -32.72,
+      "impact": "low",
+      "evidence": {
+        "last_7d": 6.286,
+        "prev_7d": 9.343
+      },
+      "validated": false,
+      "confidence": 0.25,
+      "note": "No metric specified in hypothesis"
+    },
+    {
+      "title": "ROAS dropped significantly in segment: audience_type = Lookalike",
+      "segment": "audience_type",
+      "segment_value": "Lookalike",
+      "delta_pct": -28.08,
+      "impact": "low",
+      "evidence": {
+        "last_7d": 7.419,
+        "prev_7d": 10.316
+      },
+      "validated": false,
+      "confidence": 0.25,
+      "note": "No metric specified in hypothesis"
+    },
+    {
+      "title": "ROAS dropped significantly in segment: audience_type = Retargeting",
+      "segment": "audience_type",
+      "segment_value": "Retargeting",
+      "delta_pct": -15.84,
+      "impact": "low",
+      "evidence": {
+        "last_7d": 9.465,
+        "prev_7d": 11.247
+      },
+      "validated": false,
+      "confidence": 0.25,
+      "note": "No metric specified in hypothesis"
+    }
+  ],
+  "data_summary": {
+    "rows": 4500,
+    "date_range": "2025-01-01 → 2025-03-31",
+    "avg_ctr": 1.3054408834288476,
+    "avg_roas": 9.392475378839297
+  }
+}

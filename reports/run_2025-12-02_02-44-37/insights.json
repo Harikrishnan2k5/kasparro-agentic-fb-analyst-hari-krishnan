@@ -1,0 +1,98 @@
+{
+  "run_id": "run_2025-12-02_02-44-37",
+  "query": "Analyze ROAS drop in last 7 days",
+  "timestamp": "2025-12-02T02:44:37.919514+05:30",
+  "hypotheses": [
+    {
+      "title": "CTR changed by -0.28%",
+      "metric": "ctr_calc",
+      "severity": "low",
+      "confidence": 0.046,
+      "evidence": {
+        "baseline_mean": 1.263947880258067,
+        "current_mean": 1.260417853725704,
+        "baseline_n": 350,
+        "current_n": 400,
+        "delta_pct": -0.27928576703987684,
+        "zscore": -0.09221534968662667,
+        "p_value": 0.9265269427224665
+      },
+      "validated": false,
+      "impact": "low"
+    },
+    {
+      "title": "CPC changed by 17.95%",
+      "metric": "cpc_calc",
+      "severity": "medium",
+      "confidence": 0.682,
+      "evidence": {
+        "baseline_mean": 0.24890594084079412,
+        "current_mean": 0.29359180977293636,
+        "baseline_n": 350,
+        "current_n": 400,
+        "delta_pct": 17.95291377184297,
+        "zscore": 1.6340583744847932,
+        "p_value": 0.10224659402978076
+      },
+      "validated": true,
+      "impact": "low"
+    },
+    {
+      "title": "CPM changed by 7.17%",
+      "metric": "cpm_calc",
+      "severity": "low",
+      "confidence": 0.361,
+      "evidence": {
+        "baseline_mean": 2.9715290823319185,
+        "current_mean": 3.1845971597506226,
+        "baseline_n": 350,
+        "current_n": 400,
+        "delta_pct": 7.170317756119626,
+        "zscore": 0.6851777322395649,
+        "p_value": 0.493231773646972
+      },
+      "validated": true,
+      "impact": "low"
+    },
+    {
+      "title": "ROAS changed by -9.29%",
+      "metric": "roas_calc",
+      "severity": "low",
+      "confidence": 0.453,
+      "evidence": {
+        "baseline_mean": 8.143337765229788,
+        "current_mean": 7.386722688634624,
+        "baseline_n": 350,
+        "current_n": 400,
+        "delta_pct": -9.291215695678735,
+        "zscore": -0.8971891830638679,
+        "p_value": 0.3696179762020986
+      },
+      "validated": true,
+      "impact": "low"
+    },
+    {
+      "title": "Worst performing audience: Broad",
+      "metric": "roas_calc",
+      "severity": "medium",
+      "confidence": 0.453,
+      "evidence": {
+        "baseline_mean": 8.143337765229788,
+        "current_mean": 7.386722688634624,
+        "baseline_n": 350,
+        "current_n": 400,
+        "delta_pct": -9.291215695678735,
+        "zscore": -0.8971891830638679,
+        "p_value": 0.3696179762020986
+      },
+      "validated": true,
+      "impact": "low"
+    }
+  ],
+  "data_summary": {
+    "rows": 4500,
+    "date_range": "2025-01-01 → 2025-03-31",
+    "avg_ctr": 1.3054408834288476,
+    "avg_roas": 9.392475378839297
+  }
+}
